@@ -6,7 +6,7 @@ Dad says these are healthy because they have more fibre and no added sugar. You 
     Cook until just browning (
         Add milk until just runny (
             Mix (
-                Mash (3 bananas),
+                (3 bananas, Mash),
                 3 eggs,
                 2 ups of milk,
                 Sift (

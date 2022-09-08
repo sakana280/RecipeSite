@@ -5,14 +5,14 @@ This recipe is from the Black Forest Primary School "Feast in the Forest" centen
 
     Combine then serve (
         "Combine, simmer until chicken cooked" (
-            Put aside (Fry until sealed (Marinade 1hr [optional] (
-                    400g chicken,
-                    1tsp tumeric,
-                    salt,
-                ))),
+            (Marinade 1hr [optional] (
+                400g chicken,
+                1tsp tumeric,
+                salt,
+            ), Fry until sealed, Put aside),
             Fry a few minutes (
                 Fry until fragrant (
-                    Blitz or chop finely (1 brown onion),
+                    (1 brown onion, Blitz or chop finely),
                     2.5cm minced ginger,
                     1tbsp sweet chilli sauce,
                 ),
@@ -21,7 +21,7 @@ This recipe is from the Black Forest Primary School "Feast in the Forest" centen
             ),
             1/2tsp tamarind paste,
         ),
-        Tear (6 lime leaves),
+        (6 lime leaves, Tear),
     )
 
 Serve with steamed rice.

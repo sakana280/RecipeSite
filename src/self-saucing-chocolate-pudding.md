@@ -5,7 +5,7 @@ This recipe is for a large serve, or 2x smaller serves.
 
     Microwave 1.5mins (
         Mix until no lumps (
-            Melted (2 1/2tbsp margarine),
+            (2 1/2tbsp margarine, Melted),
             3tbsp SR flour,
             3tbsp sugar,
             1 1/2tbsp cocoa,
@@ -15,5 +15,5 @@ This recipe is for a large serve, or 2x smaller serves.
             1tsp cocoa,
             1tsp brown sugar,
         ),
-        Gently pour (3tbsp hot water),
+        (3tbsp hot water, Gently pour),
     )
