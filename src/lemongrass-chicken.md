@@ -4,7 +4,7 @@ Lemongrass Coconut Chicken, serves 4
 This recipe is from the Black Forest Primary School "Feast in the Forest" centenary cookbook.
 
     Combine then serve (
-        "Combine, simmer until chicken cooked" (
+        Combine then simmer until chicken cooked (
             (Marinade 1hr [optional] (
                 400g chicken,
                 1tsp tumeric,
